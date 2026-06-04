@@ -23,4 +23,4 @@ A classic space shooter game made with Unity WebGL. Control a cube, shoot bullet
 - GitHub Pages
 
 ## 👤 About me
-I'm 18 years old, self-taught Unity developer from Cuba. Looking for remote junior opportunities.
+I'm a self-taught Unity developer from Cuba. I've been coding since I was 14. Looking for remote opportunities.
